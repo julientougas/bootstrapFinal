@@ -1,0 +1,51 @@
+* {
+    font-family: 'Lato', helvetica, arial, sans-serif;
+    box-sizing: inherit;
+}
+
+html {
+    height: 100%;
+    box-sizing: border-box;
+}
+
+body {
+    position: relative;
+    padding-bottom: 54px;
+    min-height: 100%;
+}
+
+h1 {
+    color: #5cb85c;
+}
+
+p {
+    font-family: 'Lustria', Palatino, serif;
+}
+
+.footer {
+    background-color: #373a3c;
+    color: #fff;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.footer p {
+    font-family: 'Lato', helvetica, arial, sans-serif;
+}
+
+nav {
+    border-radius: 0px !important;
+}
+
+.card-columns {
+    padding-top: 60px;
+}
+
+img {
+    padding-top: 60px;
+}
+form {
+    padding: 15px 0 60px 0;
+}
